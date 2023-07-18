@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>hscreen5</class>
+ <widget class="QDialog" name="hscreen5">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Plan Of Action</string>
+  </property>
+  <widget class="QPushButton" name="hexerd5">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>211</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 5</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="daywiseheading">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>60</y>
+     <width>401</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Day-Wise Schedule&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hexerd1">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>146</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 1</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="eq3">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>660</y>
+     <width>150</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Pull up bar</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hdietd4">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>406</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 4</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hexerd3">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>146</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 3</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="eq4">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>660</y>
+     <width>150</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Skipping rope</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hexerd4">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>211</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 4</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hexerd2">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>146</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 2</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hdietd2">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>346</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 2</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hdietd5">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>406</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 5</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hs5nxt">
+   <property name="geometry">
+    <rect>
+     <x>241</x>
+     <y>725</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Next</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hexerd6">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>211</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 6</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hdietd7">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>466</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 7</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hdietd3">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>346</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 3</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hdietd6">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>406</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 6</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="equipmentheading">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>546</y>
+     <width>400</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Exercises For Your Equipment&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hdietd1">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>346</y>
+     <width>100</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Day 1</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="eq1">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>600</y>
+     <width>150</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Dumbells</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="eq2">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>600</y>
+     <width>150</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Barbell</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="dietplanschedule">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>286</y>
+     <width>400</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Day-Wise Diet Plan&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
