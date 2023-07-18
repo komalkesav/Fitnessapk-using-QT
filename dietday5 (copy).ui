@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>dietday5</class>
+ <widget class="QDialog" name="dietday5">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>700</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Day5 Diet</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>50</y>
+     <width>300</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Breakfast</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>490</y>
+     <width>300</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dinner&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>90</y>
+     <width>300</width>
+     <height>125</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;1. Vegetable poha - 2 &lt;span style=&quot; background-color:transparent;&quot;&gt;Cup &lt;/span&gt;&lt;/p&gt;&lt;p&gt;2. Curd - 1 &lt;span style=&quot; background-color:transparent;&quot;&gt;Cup &lt;/span&gt;&lt;/p&gt;&lt;p&gt;3. cashews - 3, almonds - 5, walnuts - 3&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>300</y>
+     <width>300</width>
+     <height>150</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;1. Chana dal - 1 &lt;span style=&quot; background-color:transparent;&quot;&gt;Cup &lt;/span&gt;&lt;/p&gt;&lt;p&gt;2. Bhindi vegetable - 1 &lt;span style=&quot; background-color:transparent;&quot;&gt;Cup &lt;/span&gt;&lt;/p&gt;&lt;p&gt;3. Rice - 1/2 &lt;span style=&quot; background-color:transparent;&quot;&gt;Cup &lt;/span&gt;&lt;/p&gt;&lt;p&gt;4. chapathi - 3&lt;/p&gt;&lt;p&gt;5. Salad&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>250</y>
+     <width>300</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lunch&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>510</y>
+     <width>300</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;1. cup peas mushroom vegetable - 1&lt;/p&gt;&lt;p&gt;2.chapatti - 3&lt;/p&gt;&lt;p&gt;3. salad&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
